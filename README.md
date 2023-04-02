@@ -2,7 +2,7 @@
 This is a web application which conduct online examination for any organisation 
 Used languages HTML, CSS, PHP
 For database MySql is used.
-Frameworks like bootstrap are also used in this.
+Frameworks like bootstrap and jQuery are also used in this.
 in this there is Dashboard for the admin where the admin can add staff members in the database 
 and the Staff can login to there Dashboard and add students of their class 
 amd student can login with his credentials in student login page and he can view his information 
